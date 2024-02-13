@@ -1,4 +1,3 @@
 - 👋 Hi, I'm @ojlogic.
-- I JUST SAID HELLO TO THE WORLD OF PROGRAMMING
-- MY STRATEGY IS FINANCIAL INDEPENDENCE THROUGH THE PATH FULL OF HARD WORK
-- MY GOAL FOR 2024 - LEARN AND PRACTICE ALGORITHMS, DATA STRUCTURES, DJANGO, API, PostgreSQL 
+
+- Among the newly born lay the corpses of those who had perished in the fight for survival.
